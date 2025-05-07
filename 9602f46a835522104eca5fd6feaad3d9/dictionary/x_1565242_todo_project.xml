@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3bd3bcea835522104eca5fd6feaad3e5" label="Project" max_length="40" name="x_1565242_todo_project" type="collection">
+        <element choice="3" label="Project" max_length="40" name="project" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Work" sequence="0" value="work"/>
+                <element inactive_on_update="false" label="Home" sequence="1" value="home"/>
+            </choice>
+        </element>
+    </element>
+</database>

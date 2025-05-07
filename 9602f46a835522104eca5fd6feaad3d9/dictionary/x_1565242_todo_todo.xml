@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f6427c6a835522104eca5fd6feaad3c1" label="ToDo" max_length="40" name="x_1565242_todo_todo" type="collection">
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="todoitem" max_length="200" name="todoitem" type="string"/>
+        <element label="Send reminder" max_length="255" name="send_reminder" type="boolean"/>
+        <element label="Location" max_length="300" name="location" type="string"/>
+        <element choice="3" choice_field="project" choice_table="x_1565242_todo_project" label="Project" max_length="40" name="projec0" type="string">
+            <choice/>
+        </element>
+        <element choice="3" label="progress" max_length="40" name="progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Complete" sequence="2" value="complete"/>
+                <element inactive_on_update="false" label="Not yet started" sequence="0" value="not_yet_started"/>
+                <element inactive_on_update="false" label="In progress" sequence="1" value="in_progress"/>
+            </choice>
+        </element>
+        <element label="due date" max_length="40" name="due_date" type="glide_date"/>
+        <element choice="3" label="importance" max_length="40" name="importance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not important" sequence="0" value="not_important"/>
+                <element inactive_on_update="false" label="Important" sequence="1" value="important"/>
+                <element inactive_on_update="false" label="Very important" sequence="2" value="very_important"/>
+            </choice>
+        </element>
+        <element active="false" label="Project" max_length="40" name="project" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="projec0"/>
+        </index>
+    </element>
+</database>

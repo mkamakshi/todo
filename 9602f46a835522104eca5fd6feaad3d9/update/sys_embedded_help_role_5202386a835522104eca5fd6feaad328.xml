@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1565242_todo.admin" name="x_1565242_todo.admin">1e02386a835522104eca5fd6feaad326</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-06 22:11:53</sys_created_on>
+        <sys_id>5202386a835522104eca5fd6feaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1e02386a835522104eca5fd6feaad326</sys_name>
+        <sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5202386a835522104eca5fd6feaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-06 22:11:53</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
