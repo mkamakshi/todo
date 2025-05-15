@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="INSERT_OR_UPDATE">
+        <name>Content-Type</name>
+        <rest_message display_value="USPS Integration">becca94b831122104eca5fd6feaad34d</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 15:48:13</sys_created_on>
+        <sys_id>38b6a04d832122104eca5fd6feaad3c8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Content-Type</sys_name>
+        <sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope>
+        <sys_update_name>sys_rest_message_headers_38b6a04d832122104eca5fd6feaad3c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 16:01:52</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_headers>
+</record_update>
