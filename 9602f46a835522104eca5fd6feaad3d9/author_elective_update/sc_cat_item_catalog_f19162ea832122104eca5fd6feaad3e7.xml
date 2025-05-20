@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="ToDo ">57316aaa832122104eca5fd6feaad358</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 16:34:59</sys_created_on>
+        <sys_id>f19162ea832122104eca5fd6feaad3e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.ToDo </sys_name>
+        <sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f19162ea832122104eca5fd6feaad3e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 16:34:59</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="todo">9602f46a835522104eca5fd6feaad3d9</application>
+        <file_path/>
+        <instance_id>2152c9e8ff48d29cc80bf8e4fc4fd9f9</instance_id>
+        <instance_name>dev287296</instance_name>
+        <name>sc_cat_item_catalog_f19162ea832122104eca5fd6feaad3e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="ToDo ">57316aaa832122104eca5fd6feaad358</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-19 16:34:59</sys_created_on><sys_id>f19162ea832122104eca5fd6feaad3e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.ToDo </sys_name><sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package><sys_policy/><sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope><sys_update_name>sc_cat_item_catalog_f19162ea832122104eca5fd6feaad3e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-19 16:34:59</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>418355969</payload_hash>
+        <record_name>Service Catalog.ToDo </record_name>
+        <reverted_from/>
+        <source>a6a1023a831122104eca5fd6feaad3f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 16:34:59</sys_created_on>
+        <sys_id>c69162ea832122104eca5fd6feaad3f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196e966057e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 16:34:59</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>429162ea8b212210e4e74b1bb56dcdea</update_guid>
+        <update_guid_history>429162ea8b212210e4e74b1bb56dcdea:418355969</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.ToDo ">46e16aea832122104eca5fd6feaad360</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 16:36:22</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>1590ae05c4da4d9086dc89fa61122900</sys_id>
+        <sys_metadata>f19162ea832122104eca5fd6feaad3e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.ToDo </sys_name>
+        <sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package>
+        <sys_parent display_value="ToDo ">57316aaa832122104eca5fd6feaad358</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope>
+        <sys_scope_delete display_value="">543542f4b5234adca2280eee12b58d64</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_f19162ea832122104eca5fd6feaad3e7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_f19162ea832122104eca5fd6feaad3e7">c69162ea832122104eca5fd6feaad3f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 16:36:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
