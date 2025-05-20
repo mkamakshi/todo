@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="ToDo ">57316aaa832122104eca5fd6feaad358</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 16:40:33</sys_created_on>
+        <sys_id>a7d26e2e832122104eca5fd6feaad38f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.ToDo </sys_name>
+        <sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope>
+        <sys_update_name>sc_cat_item_category_a7d26e2e832122104eca5fd6feaad38f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 16:40:33</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="todo">9602f46a835522104eca5fd6feaad3d9</application>
+        <file_path/>
+        <instance_id>2152c9e8ff48d29cc80bf8e4fc4fd9f9</instance_id>
+        <instance_name>dev287296</instance_name>
+        <name>sc_cat_item_category_a7d26e2e832122104eca5fd6feaad38f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="ToDo ">57316aaa832122104eca5fd6feaad358</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-19 16:40:33</sys_created_on><sys_id>a7d26e2e832122104eca5fd6feaad38f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.ToDo </sys_name><sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package><sys_policy/><sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope><sys_update_name>sc_cat_item_category_a7d26e2e832122104eca5fd6feaad38f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-19 16:40:33</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1715235483</payload_hash>
+        <record_name>Can We Help You?.ToDo </record_name>
+        <reverted_from/>
+        <source>a6a1023a831122104eca5fd6feaad3f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 16:40:34</sys_created_on>
+        <sys_id>63d26e2e832122104eca5fd6feaad394</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196e96b204e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 16:40:34</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>a3d26e2e9021221040391c01a3525b93</update_guid>
+        <update_guid_history>a3d26e2e9021221040391c01a3525b93:-1715235483</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.ToDo ">f703626e832122104eca5fd6feaad3f9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 16:41:24</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>328019f5df614eaa99d24a733f92c084</sys_id>
+        <sys_metadata>a7d26e2e832122104eca5fd6feaad38f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.ToDo </sys_name>
+        <sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope>
+        <sys_scope_delete display_value="">543542f4b5234adca2280eee12b58d64</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a7d26e2e832122104eca5fd6feaad38f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a7d26e2e832122104eca5fd6feaad38f">63d26e2e832122104eca5fd6feaad394</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 16:41:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
