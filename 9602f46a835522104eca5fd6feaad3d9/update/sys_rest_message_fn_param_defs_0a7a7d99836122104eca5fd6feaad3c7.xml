@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
     <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
-        <name>ZIPCode</name>
+        <name>streetAddress</name>
         <order>100</order>
         <rest_message_function display_value="Default GET">207e2583831122104eca5fd6feaad3cd</rest_message_function>
         <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-14 15:27:05</sys_created_on>
-        <sys_id>a3f128c5832122104eca5fd6feaad332</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>ZIPCode</sys_name>
+        <sys_created_on>2025-05-15 16:34:33</sys_created_on>
+        <sys_id>0a7a7d99836122104eca5fd6feaad3c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>streetAddress</sys_name>
         <sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package>
         <sys_policy/>
         <sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope>
-        <sys_update_name>sys_rest_message_fn_param_defs_a3f128c5832122104eca5fd6feaad332</sys_update_name>
+        <sys_update_name>sys_rest_message_fn_param_defs_0a7a7d99836122104eca5fd6feaad3c7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-14 15:29:23</sys_updated_on>
-        <value>85286</value>
+        <sys_updated_on>2025-05-15 16:34:33</sys_updated_on>
+        <value>3221 S Santa Rita Way</value>
     </sys_rest_message_fn_param_defs>
 </record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>location</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 16:10:59</sys_created_on>
+        <sys_id>654f3ae1836122104eca5fd6feaad3c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location</sys_name>
+        <sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope>
+        <sys_update_name>sys_ui_policy_action_654f3ae1836122104eca5fd6feaad3c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 16:10:59</sys_updated_on>
+        <table>x_1565242_todo_todo</table>
+        <ui_policy display_value="Set address, state and city as mandatory, visible and postal address as read only , visible when project is selected">fb7ef6a1836122104eca5fd6feaad390</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=654f3ae1836122104eca5fd6feaad3c6"/>
+</record_update>
