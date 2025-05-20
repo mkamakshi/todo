@@ -10,7 +10,7 @@
         <conversational_label/>
         <create_roles/>
         <default_html_value/>
-        <default_value>not_yet_started</default_value>
+        <default_value/>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -22,7 +22,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>progress</field>
+        <field>state</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -42,14 +42,14 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>progress</name>
+        <name>state</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>300</order>
+        <order>900</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>How far are you with this task?</question_text>
+        <question_text>What is the state?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -77,20 +77,20 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-19 16:38:42</sys_created_on>
-        <sys_id>b4f1aaea832122104eca5fd6feaad38e</sys_id>
+        <sys_created_on>2025-05-20 16:11:04</sys_created_on>
+        <sys_id>b0956ff2836122104eca5fd6feaad3be</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>How far are you with this task?</sys_name>
+        <sys_name>What is the state?</sys_name>
         <sys_package display_value="todo" source="x_1565242_todo">9602f46a835522104eca5fd6feaad3d9</sys_package>
         <sys_policy/>
         <sys_scope display_value="todo">9602f46a835522104eca5fd6feaad3d9</sys_scope>
-        <sys_update_name>item_option_new_b4f1aaea832122104eca5fd6feaad38e</sys_update_name>
+        <sys_update_name>item_option_new_b0956ff2836122104eca5fd6feaad3be</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-20 16:17:09</sys_updated_on>
+        <sys_updated_on>2025-05-20 16:18:07</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>5</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -106,22 +106,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=b4f1aaea832122104eca5fd6feaad38e"/>
-    <fx_price action="delete_multiple" query="id=b4f1aaea832122104eca5fd6feaad38e"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=b0956ff2836122104eca5fd6feaad3be"/>
+    <fx_price action="delete_multiple" query="id=b0956ff2836122104eca5fd6feaad3be"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>b4f1aaea832122104eca5fd6feaad38e</id>
+        <id>b0956ff2836122104eca5fd6feaad3be</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-19 16:38:42</sys_created_on>
-        <sys_id>dc72e22e832122104eca5fd6feaad3a7</sys_id>
+        <sys_created_on>2025-05-20 16:11:04</sys_created_on>
+        <sys_id>55b52336836122104eca5fd6feaad319</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-19 16:38:42</sys_updated_on>
+        <sys_updated_on>2025-05-20 16:11:04</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -129,16 +129,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>b4f1aaea832122104eca5fd6feaad38e</id>
+        <id>b0956ff2836122104eca5fd6feaad3be</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-19 16:38:42</sys_created_on>
-        <sys_id>9072e22e832122104eca5fd6feaad3a7</sys_id>
+        <sys_created_on>2025-05-20 16:11:04</sys_created_on>
+        <sys_id>19b52336836122104eca5fd6feaad318</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-19 16:38:42</sys_updated_on>
+        <sys_updated_on>2025-05-20 16:11:04</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
